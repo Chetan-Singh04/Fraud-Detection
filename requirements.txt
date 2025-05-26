@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+flask
+joblib
+jupyter
+pytest         # for unit tests
+python-dotenv  # to read .env variables
