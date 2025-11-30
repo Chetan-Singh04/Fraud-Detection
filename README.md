@@ -58,7 +58,7 @@ Preprocessing: Feature scaling with `StandardScaler`
 1.Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/fraud-detection-app.git
+git clone https://github.com/Chetan-Singh04/Fraud-Detection
 cd fraud-detection-app
 ```
 2.Set Up Virtual Environment
